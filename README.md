@@ -9,8 +9,6 @@ cd chef-project
 
 chmod +x setup_chef_project.sh
 ./setup_chef_project.sh
-
-cat /tmp/greeting.txt 
 ```
 This document provides a comprehensive guide for installing and setting up Chef on Amazon Linux 2023. Follow these instructions to ensure proper installation and configuration.
 
